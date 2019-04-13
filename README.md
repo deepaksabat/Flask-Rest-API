@@ -9,14 +9,26 @@ Create resources using POST requests
 Deleting resources using DELETE requests
 
 
-Install guide
-Clone the repo
+## Install guide
+
+##### Clone the repo
+
+```bash
 $ git clone https://github.com/deepaksabat/Flask-Rest-API.git
 $ cd Flask-Rest-API
-Create the virtualenv
+```
+
+##### Create the virtualenv
+```bash
 $ mkvirtualenv env
-Install dependencies
+```
+
+##### Install dependencies
+```bash
 $ pip install -r requirements.txt
-Run the app
-$ python run.py
-Running the app
+```
+
+##### Run the app
+```bash
+$ python run_app.py
+```
